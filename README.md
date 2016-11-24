@@ -1,4 +1,4 @@
-# avr_moto
+
 #### Firmware for board "SmartFara T-01"
 
 Плата имеет защиту от переполюсовки клемм АБ на входе; 
